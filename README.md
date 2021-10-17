@@ -26,7 +26,7 @@ If you want the details, read on.
 This milk is excellent for combining with coffee for nondairy lattes or even drinking
 straight. This recipe is chosen after some fine-tuning and experimentation with all kinds
 of nuts and seeds, comparing other recipies (like
-[Minimalist Baker’s](https://minimalistbaker.com/how-to-make-almond-milk/) and ingredients on
+[Minimalist Baker’s](https://minimalistbaker.com/how-to-make-almond-milk/)) and ingredients on
 commercial almond milks, trying different sweeteners (and none), and with and without a
 few additives.
 
@@ -94,7 +94,7 @@ Makes about 1.5 quarts.
 - 2 to 5 dried dates and/or figs, according to taste
 - 1/8 teaspoon salt
 - 1/4 teaspoon potassium citrate ([link](https://www.amazon.com/gp/product/B00UI9F01C/))
-- 0.5 tablespoon sunflower lecithin ([link](https://www.amazon.com/gp/product/B00MA9R8M2/))
+- 1/2 tablespoon sunflower lecithin ([link](https://www.amazon.com/gp/product/B00MA9R8M2/))
 - 1/2 teaspoon locust bean gum or guar gum ([link 1](https://www.amazon.com/gp/product/B07QBCVJ99/),
   [link 2](https://www.amazon.com/gp/product/B00IZDIMG8/))
 
