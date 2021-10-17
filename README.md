@@ -2,6 +2,8 @@
 
 (This list of recipes is a work in progress, starting with just one recipe.)
 
+![Image 2021-10-17 at 2 49 54 PM](https://user-images.githubusercontent.com/2058167/137646234-567c7829-3464-43ca-bca6-7eaeef289135.jpg)
+
 ## Ultimate Homemade Almond Milk
 
 ### Background
