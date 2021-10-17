@@ -71,6 +71,8 @@ Some background and rationale on the ingredients and preparation:
   enough. Soaking them also has an unexpected downside:
   it won’t last as long.
 
+I’ve given Amazon links on the products I use, but you can find others.
+
 ### Preparation Time
 
 Takes about 20 minutes.
@@ -78,21 +80,20 @@ Makes about 1.5 quarts.
 
 ### Ingredients
 
-- 1.5 cups raw almonds
-- 0.5 cup raw pumpkin seeds (pepitas)
-- 2–5 dates and/or figs
+- 1.5 cups raw almonds ([my recommendation](https://www.amazon.com/gp/product/B01HH79Y0U/))
+- 0.5 cup raw pumpkin seeds (pepitas) ([my recommendation](https://www.amazon.com/gp/product/B00PR88GKG/))
+- 2–5 dried dates and/or figs
 - 1/8 teaspoon salt
-- 1/4 teaspoon potassium citrate
-- 0.5 tablespoon sunflower lecithin
-- 1/2 teaspoon locust bean gum or guar gum
-
-I’ve linked the actual products I use but you can find others.
+- 1/4 teaspoon potassium citrate ([my recommendation](https://www.amazon.com/gp/product/B00UI9F01C/))
+- 0.5 tablespoon sunflower lecithin ([my recommendation](https://www.amazon.com/gp/product/B00MA9R8M2/))
+- 1/2 teaspoon locust bean gum or guar gum ([recommendation 1](https://www.amazon.com/gp/product/B07QBCVJ99/),
+  [recommendation 2](https://www.amazon.com/gp/product/B00IZDIMG8/))
 
 ### Equipment
 
-- A strong blender, like a Vitamix.
-- A nut milk bag.
-- Optional: A finer filter bag, 48-micron or similar.
+- A strong blender, like a Vitamix
+- A nut milk bag ([my recommendation](https://www.amazon.com/gp/product/B00KLT6X9W/))
+- Optional: A finer filter bag, 48-micron or similar ([my recommendation](https://www.amazon.com/gp/product/B09B54G632/))
 
 ### Steps
 
