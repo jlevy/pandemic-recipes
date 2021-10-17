@@ -16,23 +16,21 @@ If you haven’t tried fresh almond milk, you should.
 If you have, you know how much better it is than what you get at Starbucks or out of a
 container from the supermarket.
 
-The TLDR is, you can make almond milk just by grinding up almonds as finely as you can,
-then straining the result.
+The TLDR is, you can make almond milk just by grinding up almonds in water as finely as
+you can, then straining the result.
 Go ahead and try it!
 It’s simple, like many of the best things in life.
 
 But of course, the best things in life are also complex.
-A lot of recipes online cover the basics.
-If you want the details, read on.
+A lot of [recipes online](https://minimalistbaker.com/how-to-make-almond-milk/) cover the
+basics. If you want the details to take it to the next level, read on.
 
 This milk is excellent for combining with coffee for nondairy lattes or even drinking
 straight. This recipe is chosen after some fine-tuning and experimentation with all kinds
-of nuts and seeds, comparing other recipies (like
-[Minimalist Baker’s](https://minimalistbaker.com/how-to-make-almond-milk/)) and ingredients on
-commercial almond milks, trying different sweeteners (and none), and with and without a
-few additives.
+of nuts and seeds, comparing other recipes and ingredients on commercial almond milks,
+trying different sweeteners (and none), and with and without a few additives.
 
-This is the combination I’ve found works best to my taste.
+This is the combination I’ve found works best.
 But you can also think of this as more of a *framework* for a recipe than a specific
 recipe: all ingredients are optional, except for the almonds (and those can be partially
 or fully replaced by another nut or seed).
@@ -122,8 +120,8 @@ Makes about 1.5 quarts.
 
 ### After Making
 
-- It’s fairly thick, so when mixing in lattes or coffee or for other purposes you may wish
-  to add water.
+- It’s fairly thick compared to a commercial almond milk, so when mixing in lattes or coffee
+  or for other purposes you may wish to add water.
 - For making lattes or other coffee drinks, heat the milk in a pan and use a whisk to froth.
   Do not boil. Then mix the espresso or coffee into the heated milk, whisking as you go—this
   prevents separation.
@@ -137,4 +135,7 @@ Was this useful?
 Please star it!
 This lets me know.
 
-Issues and PRs welcome.
+Feedback, issues, and PRs welcome.
+💚
+
+Josh
